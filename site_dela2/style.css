@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:  #162028;
+    height: 100vh;
+    color: white;
+}
+
+img{
+    width:250px;
+    height: 425px;
+}
+
+figcaption{
+    width: 250px;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+#figespecial{
+    width: 340px;
+}
+
+#especial{
+    width: 340px;
+}
